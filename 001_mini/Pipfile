@@ -6,6 +6,9 @@ name = "pypi"
 [packages]
 jupyter = "*"
 pandas = "*"
+matplotlib = "*"
+seaborn = "*"
+sklearn = "*"
 
 [scripts]
 jupyter = "jupyter notebook --allow-root --no-browser --ip 0.0.0.0 --NotebookApp.token=''"
