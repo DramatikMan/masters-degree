@@ -1,0 +1,7 @@
+### ~ Python ~ ###
+**/.ipynb*
+
+### ~ Docker ~ ###
+**/.dockerignore
+**/Dockerfile
+*.yml
