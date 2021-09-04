@@ -8,3 +8,6 @@ notebook
 **/.dockerignore
 **/Dockerfile
 *.yml
+
+### ~ Git ~ ###
+.git*
