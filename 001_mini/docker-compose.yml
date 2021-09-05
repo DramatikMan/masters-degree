@@ -5,7 +5,6 @@ services:
     build:
       context: .
     volumes:
-    - ./Pipfile:/project/Pipfile
     - ./notebook:/project/notebook
     ports:
     - "8888:8888"
